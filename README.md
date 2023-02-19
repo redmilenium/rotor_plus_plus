@@ -25,6 +25,10 @@ En la parte del rotor, esta tarjeta debe llevar el ESP32, el modulo LORA, los TM
 
 En la parte que estará en casa, solo se necesitará el ESP32, el modulo LORA y los componenente asociados  (resistencias y condensadores y convertidor cc/cc).
 
-Esta placa es muy flexible, de hecho, puede funcionar como TinyGS con los componentes adecuados, tanto en la banda de 400 Mhz como en la de 800/900 Mhz.
+Esta placa es muy flexible, de hecho, puede funcionar como TinyGS con los componentes adecuados.
+
+Con el módulo E22-400M30S puede operar de 410~493MHz (ojo porque no se podría sintonizar la ultima hornada de satelites que operan en 400,13 ni la familia FOSSA que operan en 401.7)
+
+Con un modulo E22-900M30S puede operar de 850~930MHz
 
 Me pongo a realizar la programación e ire subiendo fotos y resultados a medida que vaya avanzando.
