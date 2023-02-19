@@ -17,3 +17,5 @@ En la parte del rotor, esta tarjeta debe llevar el ESP32, el modulo LORA, los TM
 En la parte que estará en casa, solo se necesitará el ESP32, el modulo LORA y los componenente asociados  (resistencias y condensadores y convertidor cc/cc).
 
 Esta placa es muy flexible, de hecho, puede funcionar como TinyGS con los componentes adecuados, tanto en la banda de 400 Mhz como en la de 800/900 Mhz.
+
+Me pongo a realizar la programación e ire subiendo fotos y resultados a medida que vaya avanzando.
