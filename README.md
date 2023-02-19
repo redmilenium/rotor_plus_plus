@@ -1,9 +1,10 @@
 # rotor_plus_plus
 rotor con azimuth y elevación + Lora 
-Como he comentado en la anterior versión, rotor plus, he identificado un problema que afecta a la recepción de la señal de los satelites: la Wifi, tanto de la TinyGS como del controlador del rotor, afecta negativamente a la recepción de los satelites, principalmente los que operan cerca de los 400 Mhz.
+
+Como he comentado en la anterior versión, rotor plus, he identificado un problema que afecta a la recepción de la señal de los satelites: la señal Wifi que generan, tanto de la TinyGS como el controlador del rotor, afecta negativamente a la recepción de los satelites, principalmente los que operan cerca de los 400 Mhz.
 Supongo que por ser la frecuencia de estos satelites (~ 400 Mhz) un submultiplo de la frecuencia WIFI (~ 2400 Mhz).
 
-Pudiera ser otra la causa, pero al generar silencio de radio mediante esp_wifi_stop() durante el seguimiento de los satelites, ha mejorado la recepción de estas frecuencias, y obteniendo menores errores de CRC.
+Pudiera ser otra la causa, pero alejar la TinyGS de la antena y generar silencio de radio mediante esp_wifi_stop() en la controladora del rotor durante el seguimiento de los satelites, ha mejorado la recepción de estas frecuencias, y obteniendo menores errores de CRC.
 
 ![image](https://user-images.githubusercontent.com/48222471/219964735-e9b03ab3-8a8c-4862-ba71-bbfcd501dcd3.png)
 
