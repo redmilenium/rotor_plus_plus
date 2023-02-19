@@ -5,6 +5,9 @@ Supongo que por ser la frecuencia de estos satelites (~ 400 Mhz) un submultiplo 
 
 Pudiera ser otra la causa, pero al generar silencio de radio mediante esp_wifi_stop() durante el seguimiento de los satelites, ha mejorado la recepción de estas frecuencias, y obteniendo menores errores de CRC.
 
+![image](https://user-images.githubusercontent.com/48222471/219964735-e9b03ab3-8a8c-4862-ba71-bbfcd501dcd3.png)
+
+Diagrama de bloques:
 
 ![image](https://user-images.githubusercontent.com/48222471/219963042-5a910ad9-36ba-454b-956b-77bf34b30299.png)
 Creo que esta es la mejor instalación posible:
