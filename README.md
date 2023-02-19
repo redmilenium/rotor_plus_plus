@@ -10,3 +10,7 @@ Creo que esta es la mejor instalación posible:
 Este es el esquema de la placa con el ESP32. Dependiendo de donde este situada montaremos mas o menos componentes:
 
 ![image](https://user-images.githubusercontent.com/48222471/219963378-4f51618b-5d57-4e55-a12d-66700e77d537.png)
+
+En la parte del rotor, esta tarjeta debe llevar el ESP32, el modulo LORA, los TMC2209 de control de motores paso a paso y sus componentes asociados (resistencias y condensadores y convertidor cc/cc).
+
+En la parte que estará en casa, solo se necesitará el ESP32, el modulo LORA y los componenente asociados  (resistencia y condensadores y convertidor cc/cc).
