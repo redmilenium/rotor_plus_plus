@@ -27,8 +27,8 @@ En la parte que estará en casa, solo se necesitará el ESP32, el modulo LORA y 
 
 Esta placa es muy flexible, de hecho, puede funcionar como TinyGS con los componentes adecuados.
 
-Con el módulo E22-400M30S puede operar de 410~493MHz (ojo porque no se podría sintonizar la ultima hornada de satelites que operan en 400,13 ni la familia FOSSA que operan en 401.7)
+Con el módulo E22-400M30S puede operar de 410~493MHz - SX1268 RF chip - (ojo porque no se podría sintonizar la ultima hornada de satelites que operan en 400,13 ni la familia FOSSA que operan en 401.7)
 
-Con un modulo E22-900M30S puede operar de 850~930MHz
+Con un modulo E22-900M30S puede operar de 850~930MHz - SX1262 RF chip -
 
 Me pongo a realizar la programación e ire subiendo fotos y resultados a medida que vaya avanzando.
