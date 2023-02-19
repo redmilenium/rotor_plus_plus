@@ -6,6 +6,8 @@ Supongo que por ser la frecuencia de estos satelites (~ 400 Mhz) un submultiplo 
 
 Pudiera ser otra la causa, pero alejar la TinyGS de la antena y generar silencio de radio mediante esp_wifi_stop() en la controladora del rotor durante el seguimiento de los satelites, ha mejorado la recepción de estas frecuencias, y obteniendo menor numero de errores de CRC.
 
+He probado tambien a solo separar la TinyGS de la antena, pero al seguir existiendo ruido WIFI cerca de la antena, el de la controladora del rotor, el resultado no mejoraba.
+
 ![image](https://user-images.githubusercontent.com/48222471/219964735-e9b03ab3-8a8c-4862-ba71-bbfcd501dcd3.png)
 
 Diagrama de bloques:
