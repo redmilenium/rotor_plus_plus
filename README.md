@@ -37,3 +37,13 @@ Con el módulo E22-400M30S puede operar de 410~493MHz - SX1268 RF chip - (ojo po
 Con un modulo E22-900M30S puede operar de 850~930MHz - SX1262 RF chip -
 
 Me pongo a realizar la programación e ire subiendo fotos y resultados a medida que vaya avanzando.
+
+25/02/2023 ya esta realizada la programacion de ambos extremos.
+
+Vista de la pagina WEB servida por el ESP32 instalado en casa y que controla via LORA al ESP32 que se encarga de mover los motores de azimut y elevation.
+
+![image](https://user-images.githubusercontent.com/48222471/221374341-191dabd5-d8c4-4824-a7d7-b8d8a2322108.png)
+
+Lo voy a tener todo montado en casa para realizar las pruebas convenientes antes de proceder a su instalación y evitar contratiempos posteriores.
+
+
