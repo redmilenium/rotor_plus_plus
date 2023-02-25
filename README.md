@@ -28,6 +28,7 @@ En la parte del rotor, esta tarjeta debe llevar el ESP32, el modulo LORA, los TM
 En la parte que estará en casa, solo se necesitará el ESP32, el modulo LORA y los componentes asociados  (resistencias y condensadores y convertidor cc/cc).
 
 Esta placa es muy flexible, de hecho, puede funcionar como TinyGS con los componentes adecuados.
+Dejo los archivos de dicha placa listos para enviar a cualquier empresa dedicada a la fabricacion de C.I. (JLCPCB, etc.)
 
 ![image](https://user-images.githubusercontent.com/48222471/219966046-f227f057-6386-4066-afda-18ccc9022e40.png)
 
