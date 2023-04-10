@@ -53,6 +53,15 @@ Vista del controlador remoto de los motores del rotor:
 
 Se alimenta a 12 voltios, ya que necesita poder mover los motores paso a paso. El ESP32 y el modulo LORA se alimentan a 5 voltios que salen del convertidor de CC/CC.
 
+10/04/2023 -> ya esta instalado el nuevo sistema en el tejado:
+
+![image](https://user-images.githubusercontent.com/48222471/230955860-d7cad3e2-adc7-40ea-bcfe-669ab9abc24b.png)
+
+![image](https://user-images.githubusercontent.com/48222471/230956003-ce19a738-85c5-4e5d-8844-98d09d81516f.png)
+
+A ver ahora como se comporta y si tengo que reorientar hasta encontrar perfectamente los 0 grados.
+
+
 
 
 
