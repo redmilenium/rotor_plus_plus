@@ -27,6 +27,7 @@ Sensores Hall para detectar el posicionamiento cero de Azimuth y Elevation.
 
 ![image](https://user-images.githubusercontent.com/48222471/231793352-6980bc08-51cc-4d45-9c8b-6aaa2a204157.png)
 
+![image](https://user-images.githubusercontent.com/48222471/231794455-12560071-c641-43c6-85d1-e8e2d587c228.png)
 
 En la parte del rotor, esta tarjeta debe llevar el ESP32, el modulo LORA, los TMC2209 de control de motores paso a paso y sus componentes asociados (resistencias y condensadores y convertidor cc/cc).
 
