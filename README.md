@@ -52,7 +52,7 @@ Vista de la pagina WEB servida por el ESP32 instalado en casa y que controla via
 
 Lo voy a tener todo montado en casa para realizar las pruebas convenientes antes de proceder a su instalación y evitar contratiempos posteriores.
 
-Vista del controlador remoto de los motores del rotor:
+Vista del controlador del rotor (Azimuth y Elevation):
 
 ![image](https://user-images.githubusercontent.com/48222471/221374682-a0b94fe0-2fc1-4f22-a8ab-ef1962c6639c.png)
 
