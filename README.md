@@ -23,6 +23,11 @@ Este es el esquema de la placa con el ESP32. Dependiendo de donde este situada m
 
 ![image](https://user-images.githubusercontent.com/48222471/219963378-4f51618b-5d57-4e55-a12d-66700e77d537.png)
 
+Sensores Hall para detectar el posicionamiento cero de Azimuth y Elevation.
+
+![image](https://user-images.githubusercontent.com/48222471/231793352-6980bc08-51cc-4d45-9c8b-6aaa2a204157.png)
+
+
 En la parte del rotor, esta tarjeta debe llevar el ESP32, el modulo LORA, los TMC2209 de control de motores paso a paso y sus componentes asociados (resistencias y condensadores y convertidor cc/cc).
 
 En la parte que estará en casa, solo se necesitará el ESP32, el modulo LORA y los componentes asociados  (resistencias y condensadores y convertidor cc/cc).
