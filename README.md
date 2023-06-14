@@ -24,8 +24,7 @@ Este es el esquema de la placa con el ESP32. Dependiendo de donde este situada m
 ![image](https://user-images.githubusercontent.com/48222471/219963378-4f51618b-5d57-4e55-a12d-66700e77d537.png)
 
 Sensores Hall para detectar el posicionamiento cero de Azimuth y Elevation.
-
-![image](https://user-images.githubusercontent.com/48222471/231793352-6980bc08-51cc-4d45-9c8b-6aaa2a204157.png)
+![image](https://github.com/redmilenium/rotor_plus_plus/assets/48222471/42dc8794-e372-4689-bfd3-c7b47c55f372)
 
 Vista del detector cero Elevation
 
