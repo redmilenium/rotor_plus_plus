@@ -73,6 +73,23 @@ Se alimenta a 12 voltios, ya que necesita poder mover los motores paso a paso. E
 
 A ver ahora como se comporta y si tengo que reorientar hasta encontrar perfectamente los 0 grados.
 
+30/08/2023 ->he cambiado la caja de nylon por una de policarbonato UV (el sol ha destrozado el nylon y presentaba grietas)
+
+![image](https://github.com/redmilenium/rotor_plus_plus/assets/48222471/31801ae6-7bb0-444d-9250-035714d45242)
+
+Vista del reten de elevation:
+
+![image](https://github.com/redmilenium/rotor_plus_plus/assets/48222471/6d7efb9f-e5a7-4fcf-b036-d7def78ef9c7)
+
+Vista del reten de azimuth:
+
+![image](https://github.com/redmilenium/rotor_plus_plus/assets/48222471/630b165a-2960-4ea4-aa28-b509d6ddd306)
+
+
+
+
+
+
 
 
 
