@@ -75,7 +75,7 @@ A ver ahora como se comporta y si tengo que reorientar hasta encontrar perfectam
 
 30/08/2023 ->he cambiado la caja de nylon por una de policarbonato UV (el sol ha destrozado el nylon y presentaba grietas)
 
-Ademas he incluido un BME280 para moninitorizar la temperatura y la humedad dentro del rotor.
+Ademas he incluido un BME280 para monitorizar la temperatura y la humedad dentro del rotor.
 
 ![image](https://github.com/redmilenium/rotor_plus_plus/assets/48222471/31801ae6-7bb0-444d-9250-035714d45242)
 
