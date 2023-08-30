@@ -54,6 +54,11 @@ Vista de la pagina WEB servida por el ESP32 instalado en casa y que controla via
 
 Lo voy a tener todo montado en casa para realizar las pruebas convenientes antes de proceder a su instalación y evitar contratiempos posteriores.
 
+Vista del sistema de motores paso  del rotor (Azimuth y Elevation) y los detectores de 0:
+
+![image](https://github.com/redmilenium/rotor_plus_plus/assets/48222471/6ee18a5b-68c9-4df7-bd82-c7e071d6ac39)
+
+
 Vista del controlador del rotor (Azimuth y Elevation):
 
 ![image](https://user-images.githubusercontent.com/48222471/221374682-a0b94fe0-2fc1-4f22-a8ab-ef1962c6639c.png)
